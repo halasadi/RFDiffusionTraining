@@ -1,6 +1,6 @@
 # RFDiffusion Training Implementation
 
-RFDiffusion provides inference scripts but no training code. This repository implements the complete training protocol from the supplement.
+The original RFdiffusion release provides inference code but not its training pipeline. This repository implements the published training protocol and extends it for custom protein datasets.
 
 ## What I Built
 
