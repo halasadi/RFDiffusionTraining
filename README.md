@@ -3,7 +3,9 @@
 The original RFdiffusion release provides inference code but not its training pipeline. This repository implements the published training protocol and extends it for custom protein datasets.
 
 Tested: A TCR–pMHC training implementation.
+
 Experimental: generalized templates for other protein systems.
+
 Environment-specific: cluster, storage, and authentication configuration.
 
 ## What I Built
